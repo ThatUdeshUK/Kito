@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Kito</string>
+    <string name="action_identify">Identify</string>
+    <string name="action_tips">Tips</string>
+    <string name="action_map">Map</string>
+    <string name="description_predicted_image">Predicted image</string>
+    <string name="info_tip">Tips</string>
+    <string name="action_open_gallery">Select from gallery</string>
 </resources>
